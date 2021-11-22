@@ -1,22 +1,23 @@
 {
-  "name": "warehouse-ga-assessments",
-  "version": "1.0.0",
-  "description": "Warehouse systems project for submitted to Glints Academy Assessments",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rahmathidayatmajid/warehouse-ga-assessments.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rahmathidayatmajid/warehouse-ga-assessments/issues"
-  },
-  "homepage": "https://github.com/rahmathidayatmajid/warehouse-ga-assessments#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+    "name": "warehouse-ga-assessments",
+    "version": "1.0.0",
+    "description": "Warehouse systems project for submitted to Glints Academy Assessments",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rahmathidayatmajid/warehouse-ga-assessments.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rahmathidayatmajid/warehouse-ga-assessments/issues"
+    },
+    "homepage": "https://github.com/rahmathidayatmajid/warehouse-ga-assessments#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }
